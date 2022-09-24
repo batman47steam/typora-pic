@@ -1,2 +1,2 @@
 # typora-pic
-图床
+picture gallery
